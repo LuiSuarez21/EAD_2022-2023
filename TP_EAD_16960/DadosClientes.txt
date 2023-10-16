@@ -1,0 +1,4 @@
+0;Joao;999999999;475;Rua de Braga;mt;1;2;
+1;Maria;987654321;100;Rua da avenida;mt;2;9;
+2;Sergio;981234321;100;Rua da avenida;mt;7;2;
+3;Luis;987655521;100;Rua da avenida;mt;6;6;
