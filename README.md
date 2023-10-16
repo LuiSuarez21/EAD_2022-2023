@@ -2,4 +2,3 @@
 Repo made to my project made on University to learn advanced C.
 
 
-Things like: lists, Structs, etc.
